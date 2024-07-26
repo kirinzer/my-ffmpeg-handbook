@@ -1,21 +1,35 @@
-![Hexo Logo](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/hexo.svg)
+# FFmpeg-handbook
 
-# Hexo Example
+**EN：**
 
-This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed to Vercel with zero configuration.
+This website is built with **Vercel** and uses **Hexo**. I'm grateful that this theme has saved me a ton of time.
 
-## Deploy Your Own
+It focuses on explaining how to get started and improve the skills of using FFmpeg for audio and video development.
 
-Deploy your own Hexo project with Vercel.
+As for how to use this handbook:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/hexo&template=hexo)
+* You can read it through step by step.
 
-_Live Example: https://hexo-template.vercel.app_
+* You can also just focus on the parts you're interested in.
 
-### How We Created This Example
+* You can reach me via email, Twitter, and blog comments.
 
-To get started with Hexo for deployment with Vercel, you can use the [Hexo CLI](https://hexo.io/docs/index.html#Installation) to initialize the project:
+Thanks for your reading.
 
-```shell
-$ hexo init project-name
-```
+Let's [start](https://handbook.kirinzer.com/).
+
+**CN：**
+
+这个网站是使用 **Vercel** 构建的,并且使用了 **Hexo**。我很感谢这个主题为我节省了大量时间。
+
+它着重在讲解如何入手和提高使用 FFmpeg 进行音视频开发的技巧。
+
+关于如何使用这本手册:
+
+- 你可以一条一条地读完。
+- 你也可以只关注你感兴趣的部分。
+- 你可以通过电子邮件、Twitter 和博客评论与我联系。
+
+感谢您的阅读。
+
+现在 [开始](https://handbook.kirinzer.com/)。
